@@ -5,4 +5,4 @@
 -	Download and install latest version R from [https://cran.r-project.org/](https://cran.r-project.org/).
 -	Download and install latest version RStudio Desktop (Open Source License) from [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/).
 -	RStudio interface
-![Rstudio Interface](/Intro Rimg/Rstudio.png)
+![Rstudio Interface](/Intro R/img/Rstudio.png)
